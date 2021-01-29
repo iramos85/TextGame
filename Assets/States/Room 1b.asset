@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0449584f07b51c3449213aa49f421a89, type: 3}
+  m_Name: Room 1b
+  m_EditorClassIdentifier: 
+  storyText: 'You start listing out all the reasons why you should stay in. Its a
+    very convincing argument (you''re having with yourself), you almost forgot that
+    in lieu of heading out, you''ve been doing absolutely nothing.
+
+
+    Stay the
+    course?
+
+    1. Hey! At least I''m home and will go to bed at a responsible hour!
+
+    2.
+    Agh. Alright alright, lets put that coat on and head over....'
+  nextStates:
+  - {fileID: 11400000, guid: 8beeda3ff5b4efa40bc549363ab868a4, type: 2}
+  - {fileID: 11400000, guid: 0deadf258a400634cb08615ef2e8ee81, type: 2}

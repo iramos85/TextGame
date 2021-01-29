@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0449584f07b51c3449213aa49f421a89, type: 3}
+  m_Name: Room 2
+  m_EditorClassIdentifier: 
+  storyText: 'A few hours into another episode of Great British Bake-off, you check
+    your texts again and the lads are starting to converge and the texts start coming
+    in.
+
+
+    What goes through your mind?
+
+    1. What if this could be a fun night??
+    Maybe I will knuckle through...
+
+    2. But its BREAD WEEK. Besides, I''m already
+    in shorts....'
+  nextStates:
+  - {fileID: 11400000, guid: 0deadf258a400634cb08615ef2e8ee81, type: 2}
+  - {fileID: 11400000, guid: 8beeda3ff5b4efa40bc549363ab868a4, type: 2}
